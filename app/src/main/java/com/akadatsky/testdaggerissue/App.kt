@@ -1,5 +1,7 @@
 package com.akadatsky.testdaggerissue
 
+
+import com.akadatsky.testdaggerissue.di.DaggerAppComponent
 import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication
 
